@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LeagueWallpaperHD</string>
+    <string name="admob_app_id">ca-app-pub-7310418259417343~8466928715</string>
+    <string name="banner_home_footer">ca-app-pub-7310418259417343/3088756751</string>
+    <string name="interstitial_full_screen">ca-app-pub-7310418259417343/2621729183</string>
+    <string name="rewarded_video">ca-app-pub-7310418259417343/3551667471</string>
+    <string name="banner">BANNER</string>
+    <string name="no_internet_connect">No Internet Connect !!!</string>
+    <string name="is_downloading">Image is downloading ....</string>
+    <string name="sample">Game_Wallpaper</string>
+    <string name="download_complete">All Download completed</string>
+    <string name="Downloading">Downloading</string>
+    <string name="catelogy_search">Search …</string>
+    <string name="onesignal_bgimage_notif_image_align">right</string>
+    <string name="evaluete">Rate Now</string>
+    <string name="title_rate">LEAGUE OF LEGENDS WALLPAPER 2018</string>
+    <string name="info_rate">If you like this app, please vote 5 \n stars for us on Google Play. \n Your support will inspire us to do better. \n Thank you!</string>
+    <string name="confirm_close_app">Do you want close app ?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="pagekage_id_store">agencyvnn.team.lol_wallpaper_hd</string>
+    <string name="show_all">Show all</string>
+    <string name="top_1000_game">Top 1000 game wallpapers</string>
+    <string name="recommend_for_you">Recommend for you</string>
+    <string name="install">install</string>
+    <string name="is_setting_wallpaper">Wallpaper is setting ...</string>
+    <string name="setting_wallpaper_success">Set wallpaper successfully!</string>
+    <string name="all_champions">All CHAMPIONS</string>
+    <string name="all_runeterras">All RUNETERRAS</string>
+    <string name="collections">COLLECTIONS</string>
+</resources>

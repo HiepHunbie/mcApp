@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#4F3F1E</color>
+    <color name="background_color_all">#010A13</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background_item">#2A2F39</color>
+    <color name="background_color_edittext">#001C27</color>
+    <color name="red">#FF0000</color>
+    <color name="tab">#666A73</color>
+    <color name="onesignal_bgimage_notif_title_color">#FFFFFF</color>
+    <color name="onesignal_bgimage_notif_body_color">#666A73</color>
+    <color name="black">#000000</color>
+    <color name="evaluete">#AF8D44</color>
+    <color name="yellow">#FFBA00</color>
+    <color name="orange">#C94E00</color>
+    <color name="text_color">#AF8D44</color>
+    <color name="number_color">#70655F</color>
+    <color name="border_item">#1B2024</color>
+</resources>
